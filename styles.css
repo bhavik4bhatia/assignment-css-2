@@ -1,0 +1,40 @@
+ /*css styling for body tag*/
+body{
+    background-color: lightblue;
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+    text-align: justify;
+    border: 4px solid green;
+    background: url("/Week\ 2/ka.jpeg") no-repeat right top 100px fixed;
+}
+
+/*css styling for  part 1 of lyrics  tag*/
+.part1{
+  color: blue;
+  margin: 3px;
+  padding: 4px;
+  justify-content: center;
+  font: normal normal 200 15px arial helvetica sans-serif;
+  flex-direction: column;
+}
+
+/*css styling for part 2 of lyrics tag*/
+.part2{
+    color: red;
+    margin: 3px;
+    padding: 4px;
+    justify-content: center;
+    font: bold normal 200 15px  'Cedarville Cursive', cursive;
+    flex-direction: column;
+}
+
+/*css styling for part 3 of lyrics tag*/
+   .part3{
+    color: black;
+    margin: 3px;
+    padding: 4px;
+    justify-content: center;
+    font: normal normal 200 15px  'Cedarville Cursive', cursive;
+    flex-direction: column; 
+}
